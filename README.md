@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently finishing my undergraduate degree in Computer Science. In the meantime, I have been working to build a good portfolio as a React/Node web developer as well as a data scientist.
-
+🔭 I’m currently finishing my undergraduate degree in Computer Science. In the meantime, I have been collecting industrial experience as a JavaScript (React & Node) web developer through a couple of part-time jobs. I am also engaged in some Data Science projects ranging from Computer Vision to Deep Learning.
 
 ### Let's Connect:
 
@@ -14,9 +13,20 @@
 
 <br />
 
+<img align="left" alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=kckusal" />
+
+<br />
+<br />
+
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kckusal&show_icons=true&hide_border=true" />
 
+<br />
 
+
+<!-- ### Latest Blog Posts -->
+
+<!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 
 <!--
 **kckusal/kckusal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
