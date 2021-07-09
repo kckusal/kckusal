@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently finishing my undergraduate degree in Computer Science. In the meantime, I have been collecting industrial experience as a JavaScript (React & Node) web developer through a couple of part-time jobs. I am also engaged in some Data Science projects ranging from Computer Vision to Deep Learning.
+I’m currently working as a Junior Frontend (React) Engineer for Provectus, Kazan. My professional interests include web app development, cloud computing, and a bit of Machine Learning stuffs as well.
 
 ### Let's Connect:
 
