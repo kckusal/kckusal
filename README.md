@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working as a Junior Frontend (React) Engineer for Provectus, Kazan. My professional interests include web app development, cloud computing, and a bit of Machine Learning stuffs as well.
+I am a Frontend (React) Engineer at Provectus, Kazan currently working for Appen Limited. My professional interests include web app development, cloud computing, and a bit of Machine Learning stuff.
 
 ### Let's Connect:
 
