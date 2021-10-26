@@ -18,7 +18,7 @@ I am a Frontend (React) Engineer at Provectus, Kazan currently working for Appen
 <br />
 <br />
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=kckusal&show_icons=true&hide_border=true" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=kckusal&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800&custom_title=My%20GitHub%20Stats" />
 
 <br />
 
