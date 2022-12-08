@@ -2,7 +2,7 @@
   
 ## Hello there 👋
 
-I am a Software Engineer (React/Node/Python) at Provectus IT, Inc currently working for Appen Limited. My professional interests include web app development, cloud computing, and a bit of Machine Learning stuff.
+I am a Software Engineer (React/Node/Python) based in Queensland, Australia. My professional interests include web app development, cloud computing, and a bit of Machine Learning stuff.
 
 <br />
 
