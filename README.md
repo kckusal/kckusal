@@ -18,6 +18,7 @@ I am a Software Engineer (React/Node/Python) based in Queensland, Australia. My 
 
 <br />
 
+<!--
 ## Developer Stats
 
 Note that the Wakatime Stats do not include all the time I spend working on most of my private & corporate projects.
@@ -25,7 +26,8 @@ Note that the Wakatime Stats do not include all the time I spend working on most
 
 Also the following GitHub Stats do not include PRs and other contributions to private repositories.
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=kckusal&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800&custom_title=My%20GitHub%20Stats" />
-  
+
+-->
 </div>
 
 <!-- ### Latest Blog Posts -->
