@@ -14,7 +14,7 @@ I am a Software Engineer (React/Node/Python) based in Queensland, Australia. My 
 [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/kckusal)
 <br />
 
-[https://www.kusalkc.com.np](https://www.kusalkc.com.np)
+[https://www.kusal.dev](https://www.kusal.dev)
 
 <br />
 
