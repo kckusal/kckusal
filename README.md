@@ -1,6 +1,6 @@
-[kusal.dev](https://www.kusal.dev)
+Find me at [kusal.dev](https://www.kusal.dev)
 
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kckusal)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ## Developer Stats
